@@ -112,6 +112,8 @@ This analysis demonstrates how formal statistical methods can separate genuine c
 | Visualization | Matplotlib, Seaborn |
 | Language | Python 3 |
 
+---
+
 ## Interactive Dashboard
 I built a Tableau dashboard that can be viewed for non-technical understanding. The dashboard explores the relationships between usage and winning as well as the top 10 players by usage rate.
 https://public.tableau.com/app/profile/nathan.nguyen8587/viz/NBAUSG-WIN/Dashboard1
